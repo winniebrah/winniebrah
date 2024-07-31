@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @winniebrah
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on cybersecurity-stuff
+- 💞️ I’m looking to collaborate on Cybersecurity-stuff
 - 📫 How to reach me discord: winniebrah
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
